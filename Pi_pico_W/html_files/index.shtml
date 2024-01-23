@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title>MP3 PLAYER</title> 
+    </head>
+    <body> <h1>MP3 PLAYER</h1>
+        <br>
+        <h2>Info:</h2>
+        <p>Status: <!--#playpaus--></p>
+        <p>Volume: <!--#volume-->%</p>
+        <p>Temp: <!--#temp--> C</p>
+        <br>
+        <h2>Controls:</h2>
+        <a href="/volume.cgi?volume=1"><button>VOLUME UP</button></a>
+        <a href="/volume.cgi?volume=0"><button>VOLUME DOWN</button></a>
+        <a href="/play.cgi?play=1"><button>PLAY/PAUSE</button></a>
+        <br>
+        <br>
+        <a href="/index.shtml">Refresh</a>
+   </body>
+</html>
