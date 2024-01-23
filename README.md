@@ -12,7 +12,7 @@
     by CubeMX tool. The real-time system freeRTOS is responsible for controlling the board.
 
 - freeRTOS [RTOS](https://github.com/MikeZ7/MP3_Player/tree/master/STM_music/Middlewares/Third_Party/FreeRTOS/Source)
-- Reading SD Card - [FATFS](https://github.com/MikeZ7/MP3_Player/tree/master/STM_music/Middlewares/Third_Party/FatFs)
+- Reading SD Card - [FATFS](https://github.com/MikeZ7/MP3_Player/tree/master/STM_music/Middlewares/Third_Party/FatFs/src)
 - Decoding MP3 files - [helix](https://github.com/MikeZ7/MP3_Player/tree/master/STM_music/Drivers/helix)
 - DAC initialization and control - [Audio](https://github.com/MikeZ7/MP3_Player/tree/master/STM_music/Application/Audio)
 - Communication with Pico - UART
