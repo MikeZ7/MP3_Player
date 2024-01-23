@@ -1,5 +1,10 @@
 # STM32 Player
 
+## Authors
+
+- Jakub Kłoczko
+- Michał Zelek 
+
 ## Description
 
     Project of music player built with STM32F411E-Discovery and Raspberry Pico W.
