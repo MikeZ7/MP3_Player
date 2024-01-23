@@ -8,7 +8,7 @@
 ## Description
 
     Project of music player built with STM32F411E-Discovery and Raspberry Pico W.
-    The STM board reads MP3 files from SD Card, decodes MP3 and send data to
+    The STM board reads MP3 files from SD Card, decodes MP3 and sends data to
     DAC. Through the Pico board, the control of the STM board takes place.
 
 ## STM32
@@ -27,7 +27,7 @@
 
     Board is responsible for controling volume and pausing music using UART interface.
     Current music volume and title is printed on OLED display via I2C intefrace.
-    Commands are send with WIFI from web UI.
+    Commands are sent by WIFI from web UI.
 
 - OLED initialization and control
 
@@ -39,5 +39,7 @@
 - SD Card Reader
 - Rotary encoder
 - Headphones
+
+[![YouTube Video](https://i3.ytimg.com/vi/xjDPaceiwWM/maxresdefault.jpg)]("https://www.youtube.com/watch?v=xjDPaceiwWM&ab_channel=JakubK%C5%82oczko")
   
 ![player](https://github.com/MikeZ7/MP3_Player/blob/master/Images/mp3_player.jpg)
