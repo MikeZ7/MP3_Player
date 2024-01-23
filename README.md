@@ -40,6 +40,6 @@
 - Rotary encoder
 - Headphones
 
-[![YouTube Video](https://img.youtube.com/vi/xjDPaceiwWM/maxresdefault.jpg)]("https://youtu.be/xjDPaceiwWM")
+[![YouTube Video](https://img.youtube.com/vi/xjDPaceiwWM/maxresdefault.jpg)](https://youtu.be/xjDPaceiwWM "MP3 Player - projekt na TMP2 AGH")
   
 ![player](https://github.com/MikeZ7/MP3_Player/blob/master/Images/mp3_player.jpg)
