@@ -40,6 +40,6 @@
 - Rotary encoder
 - Headphones
 
-[![YouTube Video](https://i3.ytimg.com/vi/xjDPaceiwWM/maxresdefault.jpg)]("https://www.youtube.com/watch?v=xjDPaceiwWM&ab_channel=JakubK%C5%82oczko")
+[![YouTube Video](https://img.youtube.com/vi/xjDPaceiwWM/maxresdefault.jpg)]("https://youtu.be/xjDPaceiwWM")
   
 ![player](https://github.com/MikeZ7/MP3_Player/blob/master/Images/mp3_player.jpg)
